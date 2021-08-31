@@ -1,0 +1,20 @@
+{
+  "name": "serverlessaws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Osamamomani1/serverlessAWS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Osamamomani1/serverlessAWS/issues"
+  },
+  "homepage": "https://github.com/Osamamomani1/serverlessAWS#readme"
+}
