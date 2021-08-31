@@ -1,7 +1,13 @@
 # serverlessAWS
 
-[AWS_API](https://cwmcm79jwb.execute-api.us-east-1.amazonaws.com/people)
+### Patrner
 
+[Qusai Qeisi](https://github.com/qusaiqeisi)
+
+****
+
+[AWS_API](https://cwmcm79jwb.execute-api.us-east-1.amazonaws.com/people)
+***
 ### Routes:
 
 `/POST` - create new one using req body
